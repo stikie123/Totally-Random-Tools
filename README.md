@@ -7,7 +7,7 @@ This repository houses a diverse assortment of tools that range from practical u
 
 ## Tools Included
 1. Basic Credit Card Number Checker
-A simple tool to verify whether a credit card number is valid or not.
+It verifies the validity of a credit card number using the Luhn algorithm and identifies the type of card (American Express, MasterCard, Visa, or Invalid).
 More Coming Soon!
 We're constantly expanding our collection of tools.
 
