@@ -9,7 +9,7 @@ This repository houses a diverse assortment of tools that range from practical u
 1. Basic Credit Card Number Checker
 A simple tool to verify whether a credit card number is valid or not.
 More Coming Soon!
-We're constantly expanding our collection of tools. If you have a specific tool you'd like to see or if you'd like to contribute a new tool, please let us know by opening an issue.
+We're constantly expanding our collection of tools.
 
 # Contributing
 We welcome contributions from all developers! Whether you want to add a new tool, improve an existing one, or suggest enhancements, your input is valuable. Here's how you can contribute:
