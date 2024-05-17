@@ -1,10 +1,10 @@
 # Credit Card Validator
-This program is a simple credit card number validator implemented in C#. It verifies the validity of a credit card number using the Luhn algorithm and identifies the type of card (American Express, MasterCard, Visa, or Invalid).
+This program is a simple credit card number validator. It verifies the validity of a credit card number using the Luhn algorithm and identifies the type of card (American Express, MasterCard, Visa, or Invalid).
 
 ## How to Use
 Clone Repository: Clone this repository to your local machine using git clone.
 
-Compile Code: Compile the C# code using a C# compiler such as Visual Studio or Mono.
+Compile Code: Compile the code using a compiler such as Visual Studio.
 
 Run the Program: Execute the compiled program. It will prompt you to enter a credit card number. Follow the prompts and enter the credit card number you want to validate.
 
