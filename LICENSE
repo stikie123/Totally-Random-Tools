@@ -1,4 +1,4 @@
-MIT License
+Custom License
 
 Copyright (c) 2024 stikie123
 
@@ -8,6 +8,14 @@ in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
+
+1. Attribution: Users of the Software must give appropriate credit, provide a
+link to the license, and indicate if changes were made. You may do so in any 
+reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+2. Non-resale: Users are prohibited from reselling any individual tools or
+components of the Software as standalone products. The Software may only be 
+used as part of wider scope applications.
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
